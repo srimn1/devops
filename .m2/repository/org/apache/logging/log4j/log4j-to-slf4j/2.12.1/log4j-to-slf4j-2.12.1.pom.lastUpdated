@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 21:50:50 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1586190050163
+http\://localhost\:8081/artifactory/libs-release-local/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-to-slf4j\:pom\:2.12.1 from/to release (http\://localhost\:8081/artifactory/libs-release-local)\: Access denied to http\://localhost\:8081/artifactory/libs-release-local/org/apache/logging/log4j/log4j-to-slf4j/2.12.1/log4j-to-slf4j-2.12.1.pom. Error code 403, Forbidden
+651bb1d9acf332e980a9a2e5d7ad87bd81b48235@default-release-http\://localhost\:8081/artifactory/libs-release-local/.lastUpdated=1586190049710

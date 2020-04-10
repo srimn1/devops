@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 21:50:47 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1586190047301
+http\://localhost\:8081/artifactory/libs-release-local/.error=Could not transfer artifact org.springframework.boot\:spring-boot-starter-logging\:pom\:2.2.6.RELEASE from/to release (http\://localhost\:8081/artifactory/libs-release-local)\: Access denied to http\://localhost\:8081/artifactory/libs-release-local/org/springframework/boot/spring-boot-starter-logging/2.2.6.RELEASE/spring-boot-starter-logging-2.2.6.RELEASE.pom. Error code 403, Forbidden
+651bb1d9acf332e980a9a2e5d7ad87bd81b48235@default-release-http\://localhost\:8081/artifactory/libs-release-local/.lastUpdated=1586190046854

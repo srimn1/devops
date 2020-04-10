@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 21:54:22 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1586190262113
+http\://localhost\:8081/artifactory/libs-release-local/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-el\:jar\:sources\:9.0.33 from/to release (http\://localhost\:8081/artifactory/libs-release-local)\: Access denied to http\://localhost\:8081/artifactory/libs-release-local/org/apache/tomcat/embed/tomcat-embed-el/9.0.33/tomcat-embed-el-9.0.33-sources.jar. Error code 401, Unauthorized
+651bb1d9acf332e980a9a2e5d7ad87bd81b48235@default-release-http\://localhost\:8081/artifactory/libs-release-local/.lastUpdated=1586190260099

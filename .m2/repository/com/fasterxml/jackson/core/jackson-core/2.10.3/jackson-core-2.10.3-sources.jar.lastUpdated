@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 21:53:39 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1586190219338
+http\://localhost\:8081/artifactory/libs-release-local/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-core\:jar\:sources\:2.10.3 from/to release (http\://localhost\:8081/artifactory/libs-release-local)\: Access denied to http\://localhost\:8081/artifactory/libs-release-local/com/fasterxml/jackson/core/jackson-core/2.10.3/jackson-core-2.10.3-sources.jar. Error code 403, Forbidden
+651bb1d9acf332e980a9a2e5d7ad87bd81b48235@default-release-http\://localhost\:8081/artifactory/libs-release-local/.lastUpdated=1586190217297

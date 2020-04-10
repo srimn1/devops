@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 06 21:50:56 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1586190056606
+http\://localhost\:8081/artifactory/libs-release-local/.error=Could not transfer artifact org.javassist\:javassist\:pom\:3.20.0-GA from/to release (http\://localhost\:8081/artifactory/libs-release-local)\: Access denied to http\://localhost\:8081/artifactory/libs-release-local/org/javassist/javassist/3.20.0-GA/javassist-3.20.0-GA.pom. Error code 403, Forbidden
+651bb1d9acf332e980a9a2e5d7ad87bd81b48235@default-release-http\://localhost\:8081/artifactory/libs-release-local/.lastUpdated=1586190056154
